@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Android App suite" duration-ms="89935" started-at="2018-02-12T11:41:30Z" finished-at="2018-02-12T11:43:00Z">
+    <groups>
+    </groups>
+    <test name="Android Test" duration-ms="89935" started-at="2018-02-12T11:41:30Z" finished-at="2018-02-12T11:43:00Z">
+      <class name="AndroidApp.installation_staging_TestNg">
+        <test-method status="PASS" signature="install()[pri:0, instance:AndroidApp.installation_staging_TestNg@17579e0f]" name="install" is-config="true" duration-ms="76508" started-at="2018-02-12T17:11:30Z" finished-at="2018-02-12T17:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- install -->
+        <test-method status="PASS" signature="check()[pri:0, instance:AndroidApp.installation_staging_TestNg@17579e0f]" name="check" duration-ms="10298" started-at="2018-02-12T17:12:47Z" finished-at="2018-02-12T17:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="end()[pri:0, instance:AndroidApp.installation_staging_TestNg@17579e0f]" name="end" is-config="true" duration-ms="3059" started-at="2018-02-12T17:12:57Z" finished-at="2018-02-12T17:13:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- AndroidApp.installation_staging_TestNg -->
+    </test> <!-- Android Test -->
+  </suite> <!-- Android App suite -->
+</testng-results>
